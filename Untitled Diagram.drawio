@@ -1,9 +1,116 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Page-1" id="smEx4ly64rM-w55feVns">
-    <mxGraphModel>
+    <mxGraphModel dx="1044" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="150" as="targetPoint" />
+            <mxPoint x="425" y="69.58" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="425" y="80" />
+              <mxPoint x="650" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-1" value="Basel&lt;div&gt;0,204,204&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="150" as="sourcePoint" />
+            <mxPoint x="425" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-7" value="Karlsruhe&lt;div&gt;191, 137, 328&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-8" value="Zurich&lt;div&gt;85,157,242&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-9" value="Bern&lt;div&gt;91,247,338&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="hwbPMEVISvqUlkwwdk7_-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="270" as="sourcePoint" />
+            <mxPoint x="280" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-12" value="Stuttgart&lt;div&gt;255,75,330&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-13" value="Mannheim&lt;div&gt;258,164,422&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="hwbPMEVISvqUlkwwdk7_-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="420" as="sourcePoint" />
+            <mxPoint x="350" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="310" />
+              <mxPoint x="300" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-17" value="Ulm&lt;div&gt;362,0,362&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-18" value="Wurzburg&lt;div&gt;395,153,548&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="hwbPMEVISvqUlkwwdk7_-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="515" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-21" value="Memmingen&lt;div&gt;269,47,316&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-22" value="Bern&lt;div&gt;205,247,452&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwbPMEVISvqUlkwwdk7_-24" target="hwbPMEVISvqUlkwwdk7_-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="360" as="sourcePoint" />
+            <mxPoint x="585" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-24" value="Ulm&lt;div&gt;324,0,324&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-26" value="Munchen&lt;div&gt;384,120, 504&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="hwbPMEVISvqUlkwwdk7_-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="250" as="sourcePoint" />
+            <mxPoint x="810" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-29" value="Zurich&lt;div&gt;211,157,368&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwbPMEVISvqUlkwwdk7_-30" value="Basel&lt;div&gt;182,204,386&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
